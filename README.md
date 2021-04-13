@@ -4,3 +4,4 @@
  TODOS: 
  1) Improve project discription
  2) Describe required packages and how to run consol app
+
