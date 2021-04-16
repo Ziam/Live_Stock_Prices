@@ -57,7 +57,7 @@ def main():
     print('Live Prices Report: ',
           datetime.now().strftime("%m/%d/%Y %H:%M:%S"), '\n',
           data_frame)
-    # update_excel(data_frame)
+    update_excel(data_frame)
     
     
 if __name__ == '__main__':
